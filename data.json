@@ -1,0 +1,13 @@
+[
+    {"name": "Company A", "phone": "123-456-7890", "address": "123 Main St, Springfield, IL", "website": "http://company-a.com"},
+    {"name": "Company B", "phone": "987-654-3210", "address": "456 Elm St, Rivertown, TX", "website": "http://company-b.com"},
+    {"name": "Company C", "phone": "456-789-0123", "address": "789 Oak St, Lakedale, FL", "website": "http://company-c.com"},
+    {"name": "Company D", "phone": "321-654-9870", "address": "101 Pine St, Hilltop, CA", "website": "http://company-d.com"},
+    {"name": "Company E", "phone": "654-321-0987", "address": "202 Cedar St, Greenfield, NV", "website": "http://company-e.com"},
+    {"name": "Company F", "phone": "789-012-3456", "address": "303 Spruce St, Riverview, OR", "website": "http://company-f.com"},
+    {"name": "Company G", "phone": "012-345-6789", "address": "404 Birch St, Meadowland, AZ", "website": "http://company-g.com"},
+    {"name": "Company H", "phone": "345-678-9012", "address": "505 Redwood St, Sunfield, CO", "website": "http://company-h.com"},
+    {"name": "Company I", "phone": "678-901-2345", "address": "606 Cedar St, Brookside, MI", "website": "http://company-i.com"},
+    {"name": "Company J", "phone": "901-234-5678", "address": "707 Maple St, Clearview, UT", "website": "http://company-j.com"}
+  ]
+  
